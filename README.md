@@ -3,7 +3,7 @@
 Install dependencies:
 
 ``` bash
-$ git clone https://github.com/bairahmat/site_hexo.git
+$ git clone https://github.com/bantenprov/banten-os.git
 $ cd site
 $ npm install
 ```
