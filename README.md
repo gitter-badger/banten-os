@@ -1,5 +1,7 @@
 ## Getting started
 
+[![Join the chat at https://gitter.im/banten-os/Lobby](https://badges.gitter.im/banten-os/Lobby.svg)](https://gitter.im/banten-os/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Install dependencies:
 
 ``` bash
